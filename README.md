@@ -1,2 +1,2 @@
-# HaacktoberFest-2021
+# HacktoberFest-2021
 Submit Pull Request Here
